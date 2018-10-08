@@ -1,4 +1,4 @@
-# fitness
+# Fitness Bootstrap Theme to WordPress Theme
 
 FitnessGym uses Bootstrap Framework what gives it pliability and extendability. That said, you get a mobile and retina-ready item that will serve your fitness and gym website like a dream.
 ## Author
