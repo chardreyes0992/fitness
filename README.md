@@ -12,3 +12,5 @@ Full-width banner, animations, instant chat, back to top button, mega menu and n
 ## Suggested Plugins
 
 [Advace Custom Fields](https://www.advancedcustomfields.com)
+[Contact Form 7](https://wordpress.org/plugins/contact-form-7)
+[Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui)
